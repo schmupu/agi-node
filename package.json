@@ -12,7 +12,6 @@
   "author": "Alexandru Pirvulescu <alex@tcnbroadcasting.com>",
   "dependencies": {
     "asterisk-manager": "^0.1.15",
-    "fibers": "^3.1.1",
     "sprintf-js": "^1.0.2",
     "syncho": "^0.2.3"
   },
